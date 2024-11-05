@@ -1187,6 +1187,9 @@ form label {
     #fh5co-started .fh5co-heading h2 {
       margin-bottom: 0; }
 
+.regalos {
+  color: black; }
+
 @media screen and (max-width: 768px) {
   #fh5co-footer .copyright .pull-left,
   #fh5co-footer .copyright .pull-right {
