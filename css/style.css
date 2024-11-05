@@ -1175,7 +1175,8 @@ form label {
     text-transform: uppercase;
     font-weight: 400;
     padding-left: 50px;
-    padding-right: 50px; }
+    padding-right: 50px;
+    padding-top: 13px; }
   #fh5co-started .form-inline .form-group {
     width: 100% !important;
     margin-bottom: 10px; }
