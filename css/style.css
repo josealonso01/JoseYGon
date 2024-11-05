@@ -1014,10 +1014,12 @@ form label {
     line-height: 1.5;
     font-weight: bold;
     color: #00354b;
-    font-family: "Sacramento", Arial, serif; }
+    font-family: "Sacramento", Arial, serif;
+    top: 100px; }
     @media screen and (max-width: 768px) {
       .fh5co-heading h2 {
-        font-size: 40px; } }
+        font-size: 40px;
+        top: 60px; } }
   .fh5co-heading p {
     font-size: 18px;
     line-height: 1.5;

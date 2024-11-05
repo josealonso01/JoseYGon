@@ -1371,9 +1371,11 @@ form {
 		font-weight  : bold;
 		color        : $brand-primary;
 		font-family  : $font-secondary;
+		top: 100px;
 
 		@media screen and (max-width: $screen-sm) {
 			font-size: 40px;
+			top      : 60px;
 		}
 	}
 
