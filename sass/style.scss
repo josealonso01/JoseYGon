@@ -1371,7 +1371,7 @@ form {
 		font-weight  : bold;
 		color        : $brand-primary;
 		font-family  : $font-secondary;
-		top: 100px;
+		top          : 100px;
 
 		@media screen and (max-width: $screen-sm) {
 			font-size: 40px;
@@ -1595,7 +1595,7 @@ form {
 		font-weight   : 400;
 		padding-left  : 50px;
 		padding-right : 50px;
-		padding-top: 13px;
+		padding-top   : 13px;
 	}
 
 	.form-inline {
@@ -1619,7 +1619,7 @@ form {
 }
 
 
-.regalos{
+.regalos {
 	color: black;
 }
 
