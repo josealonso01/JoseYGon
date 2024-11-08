@@ -365,7 +365,7 @@ figure {
 #fh5co-event,
 .fh5co-bg {
 	background-size    : cover;
-	background-position: top center;
+	background-position: top;
 	background-repeat  : no-repeat;
 	position           : relative;
 }
@@ -1526,6 +1526,23 @@ form {
 			margin-bottom : 10px;
 		}
 
+	}
+}
+
+
+
+.flourish-embed {
+	iframe {
+		width : 100%;
+		height: 480px;
+
+		button{
+			color: red;
+		}
+
+		@media screen and (max-width: $screen-sm) {
+			height: 840px;
+		}
 	}
 }
 
